@@ -21,3 +21,5 @@ require (
 	go.mozilla.org/sops v0.0.0-20190611200209-e9e1e87723c8
 	gopkg.in/yaml.v2 v2.2.2
 )
+
+replace github.com/aws/aws-sdk-go => github.com/aws/aws-sdk-go v1.21.6
