@@ -22,4 +22,4 @@ require (
 	gopkg.in/yaml.v2 v2.2.2
 )
 
-replace github.com/aws/aws-sdk-go => github.com/aws/aws-sdk-go v1.21.6
+replace github.com/aws/aws-sdk-go => github.com/aws/aws-sdk-go v1.25.2
